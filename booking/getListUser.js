@@ -21,5 +21,13 @@ describe('API BOOKING', function () {
         assert.strictEqual(response.status, 200);
         assert.notEqual(first_name, "Michael");
     })
+<<<<<<< HEAD
+=======
+
+
+
+
+
+>>>>>>> be5282d (Initial commit - push JSON and test files)
     
 })
